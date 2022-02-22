@@ -34,7 +34,7 @@ void fraction_simplify(int * n, int * d) {
 	int	ebob;
 	int	num;
 	int	denum;
-	int	flag;
+	int	flag;  /* for sign */
 
 	num = *n;
 	denum = *d;
