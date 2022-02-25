@@ -4,11 +4,25 @@
 
 int main() {
 
-    /* A fractional number: 13/7 */
-    int num1 = 13, den1 = 7;
-    /* A fractional number: 13/7 */
-    int num2 = 30, den2 = 11;
-    /* An unitilized fractional number */
+    /* A fractional number */
+	int num1, den1 = 0;
+	printf("Please give me numerator of first number: ");
+	scanf("%d", &num1);
+	while (den1 == 0)
+	{	
+	   	printf("Please give me denominator of first number: ");
+		scanf("%d", &den1);
+	}
+	/* A fractional number */
+    int num2, den2 = 0;
+	printf("Please give me numerator of second number: ");
+	scanf("%d", &num2);
+	while (den2 == 0)
+	{	
+   		printf("Please give me denominator of second number: ");
+		scanf("%d", &den2);
+	}
+	/* An unitilized fractional number */
     int num3, den3;
 
     printf("First number: ");
@@ -36,7 +50,8 @@ int main() {
 
     printf("Division: ");
     fraction_div(num1, den1, num2, den2, &num3, &den3);
-    fraction_print(num3, den3);
+	if (num2 != 0)
+		fraction_print(num3, den3);
     printf("\n");
 
     /*
