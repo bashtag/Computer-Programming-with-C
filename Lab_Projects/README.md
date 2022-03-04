@@ -3,7 +3,9 @@
 My Lab Reports:
 
 Week-1:
-
+Midpoint, slope, area calculation with given two points on the cartesian plane
+I make a makefile.
+I got 100 points in this lab.
 Week-2:
 
 Week-3:
