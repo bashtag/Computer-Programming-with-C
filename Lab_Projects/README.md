@@ -3,7 +3,7 @@
 My Lab Reports:
 
 
-Week-1:
+WEEK-1:
 
 Midpoint, slope, area calculation with given two points on the cartesian plane
 
