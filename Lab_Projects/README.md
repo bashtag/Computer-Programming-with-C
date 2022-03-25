@@ -3,7 +3,7 @@
 My Lab Reports:
 
 
-WEEK-1:
+#WEEK-1:
 
 Midpoint, slope, area calculation with given two points on the cartesian plane
 
@@ -12,7 +12,17 @@ Making a makefile.
 I got 100 points in this lab.
 
 
-Week-2:
+#Week-2:
+
+1-Greatest Common Divisor
+2-Least Common Multiple
+3-Standart Deviation Calculator
+
+File (read/write) input/output
+
+Creating makefile with -lm (for linking standart libraries)
+
+I got 100 points in this lab.
 
 Week-3:
 
