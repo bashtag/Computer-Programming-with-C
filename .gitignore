@@ -1,5 +1,7 @@
 *.exe
 *.tar
 *.zip
+*.out
+*.o
 
 .vscode
