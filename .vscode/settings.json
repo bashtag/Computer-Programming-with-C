@@ -2,6 +2,7 @@
     "files.associations": {
         "util.h": "c",
         "math.h": "c",
-        "windows.h": "c"
+        "windows.h": "c",
+        "unistd.h": "c"
     }
 }
