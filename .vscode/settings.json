@@ -3,6 +3,7 @@
         "util.h": "c",
         "math.h": "c",
         "windows.h": "c",
-        "unistd.h": "c"
+        "unistd.h": "c",
+        "stdio.h": "c"
     }
 }
